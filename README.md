@@ -1,4 +1,4 @@
-# roadmap for automobile ai 
+# Roadmap for automobile ai 
 <br>
 Phase 1: The Foundations (Math, Physics, and Core Code)
 Math & Physics Focus:
